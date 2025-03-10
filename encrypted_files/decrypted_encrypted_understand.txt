@@ -1,0 +1,38 @@
+Currency Maintenance System
+
+Identification - Identified the applications and their software components which will be moving out of support ie Expired,Expiring in <Gmonths or expiring in >6 months.Applications which are in mainstream support as well as Bespoke & COTS are identified in CMS.
+Shared Application - Identified the applications which are sharing the same servers and databases for planning purpose. Prioritization - Identified application depending on the software components prioritize back Jog defined for upgrade.
+Distributed across various groups and sprints against respective groups.
+
+Sprint planning - based on the priority and criticality as well as downtime required for application sprint planning has been done for respective applications and put across different groups
+
+CMS Pre-prod Upgrade - Group-1 Sprint-1is in execution phase for pre-production environment (7th & gth Dec) for the following applications
+GAS2, OBOM,SPEEDY, SCS RECON,SSVA, PANDA,SPEEDY, JVBRIDGE,PODS & CIC. Upgrade of all the servers including database has been completed. Testing of respective application is in process and till date no challenges or issues noticed in upgrade.
+Current CMS Production Upgrade- Group-1Sprint-1 is in execution phase for Production has been planned on 27th & 23th Dec 23.
+ what doe this mean
+ChatGPT
+It appears to be a status update or progress report related to a Currency Maintenance System (CMS) and its upgrade process. Let's break down the key points:
+
+Identification:
+
+Applications and their software components that are moving out of support or have expired are identified.
+Applications in mainstream support, as well as bespoke (custom-made) and Commercial Off-The-Shelf (COTS) applications, are included in CMS.
+Shared Application:
+
+Applications that share the same servers and databases are identified for planning purposes.
+Prioritization:
+
+Applications are prioritized based on software components, with a back jog defined for upgrade.
+Distribution and Sprint Planning:
+
+Applications are distributed across various groups and sprints based on priority, criticality, and required downtime.
+Sprint planning is done for respective applications in different groups.
+CMS Pre-prod Upgrade:
+
+Group-1 Sprint-1 is currently in the execution phase for the pre-production environment (7th & 8th Dec).
+Applications included in this phase: GAS2, OBOM, SPEEDY, SCS RECON, SSVA, PANDA, JVBRIDGE, PODS & CIC.
+Upgrade of all servers, including the database, has been completed.
+Testing of respective applications is in process, and no challenges or issues have been noticed so far.
+Current CMS Production Upgrade:
+
+Group-1 Sprint-1 is in the execution phase for the production upgrade, planned on 27th & 23th Dec 23.
